@@ -42,8 +42,9 @@ We may update this Privacy Policy periodically. Updates will be posted in-app an
 9. Contact Us
 If you have questions or concerns about this Privacy Policy or your data, please contact us at:
 
-Email: [Your contact email]
-Address: [Your contact address]
+Email: [quantilytix@gmail.com]
+Contact :[+27 73 176 5014]
+
 Best Practices for Privacy and Data Security in the App
 Transparency: Keep users informed about what data is collected and why. This includes explaining AI-driven data usage for predictions and chatbot interactions.
 
