@@ -12,7 +12,7 @@
 5. [Data Retention](#data-retention)
 6. [Your Rights and Choices](#your-rights-and-choices)
 7. [Data Deletion](#data-deletion)
-8. [Children’s Privacy](#childrens-privacy)
+8. [Minor’s Privacy](#minors-privacy)
 9. [Changes to This Privacy Policy](#changes-to-this-privacy-policy)
 10. [Contact Us](#contact-us)
 11. [Best Practices for Privacy and Data Security in the App](#best-practices-for-privacy-and-data-security-in-the-app)
@@ -69,9 +69,9 @@ If you wish to delete your account and associated data, you may do so directly w
 
 This action will delete all your personal data and account information from our systems permanently, including business data and user profile information.
 
-## 8. Children’s Privacy
+## 8. Minor’s Privacy
 
-This app is not intended for users under the age of 13. We do not knowingly collect data from children under 13. If we become aware of data collection from minors, we will delete it promptly.
+This app is not intended for users under the age of 18. We do not knowingly collect data from children under 18. If we become aware of data collection from minors, we will delete it promptly.
 
 ## 9. Changes to This Privacy Policy
 
