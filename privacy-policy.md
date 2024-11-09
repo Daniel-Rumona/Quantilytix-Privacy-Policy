@@ -81,7 +81,7 @@ We may update this Privacy Policy periodically. Updates will be posted in-app an
 
 If you have questions or concerns about this Privacy Policy or your data, please contact us at:
 
-- **Email**: [quantilytix@gmail.com](mailto:quantilytix@gmail.com)
+- **Email**: [info@quantilytix.co.za](mailto:info@quantilytix.co.za )
 - **Contact**: [+27 73 176 5014]
 
 ## 11. Best Practices for Privacy and Data Security in the App
